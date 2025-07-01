@@ -4,4 +4,4 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-solana-program-stubs = { path = "/Users/boris/projects/solana/sol-stubs" }
+solana-program-stubs = { git = "ssh://git@github.com/procdump/sol-stubs.git", branch = "master" }

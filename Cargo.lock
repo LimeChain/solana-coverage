@@ -18,6 +18,7 @@ dependencies = [
 [[package]]
 name = "solana-program-stubs"
 version = "0.1.0"
+source = "git+ssh://git@github.com/procdump/sol-stubs.git?branch=master#e232923f5bd1866e7d2e07e678d704c429d32808"
 dependencies = [
  "lazy_static",
 ]
