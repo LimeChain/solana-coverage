@@ -2,6 +2,9 @@
 name = "solana-coverage"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+repository = "https://github.com/procdump/solana-coverage.git"
+readme = "README.md"
 
 [dependencies]
-solana-program-stubs = { git = "ssh://git@github.com/procdump/sol-stubs.git" }
+solana-program-stubs = "0.1.0"
