@@ -4,4 +4,4 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-solana-program-stubs = { git = "ssh://git@github.com/procdump/sol-stubs.git", branch = "stubsv2_pinocchio" }
+solana-program-stubs = { git = "ssh://git@github.com/procdump/sol-stubs.git" }
